@@ -12,6 +12,7 @@ list: 1, 2, 3
 empty: null
 banner: feey-zG8vq9nYSW8-unsplash.jpg
 ---
+
 This is a test of all frontmatter fieldswfefwe
 wefew
 awefwefwefoiwejfioewjfioewjfoewj
@@ -19,9 +20,3 @@ awef
 oewifjewofwwefoijwefioewjoif
 wea
 fw
-<html>[dataview:: #test/ffe]</html>
-
-
-
-![![Dataview Test/#^Table1]]
-
